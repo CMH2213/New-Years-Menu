@@ -16,4 +16,4 @@ Dumplings
 Chili - special request
 Baked Ziti
 Lemon Tart
-Choco Hot Pots
+Choco Hot Pots.
